@@ -31,4 +31,9 @@
 ```conda env create --file environment.yml --name env_from_file```
 
 # Reference:
+
 ```https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/learn/lecture/18081473?start=1#overview```
+
+# Github Reference
+
+```https://github.com/mrdbourke/zero-to-mastery-ml```
